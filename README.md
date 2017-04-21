@@ -1,0 +1,2 @@
+# TestPodSpec
+Test cocoapods spec
