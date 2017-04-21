@@ -17,13 +17,14 @@ Pod::Spec.new do |s|
 
   s.name         = "TestPodSpec"
   s.version      = "0.0.1"
-  s.summary      = "A short description of TestPodSpec."
+  s.summary      = "A Test of PodSpec"
   s.description  = <<-DESC
+                    "A Test of PodSpec"
                    DESC
 
   s.homepage     = "https://github.com/zhaochao89/TestPodSpec"
   s.license      = "MIT"
   s.author             = { "zhaochao89" => "zhaochao0801@sina.com" }
   s.platform     = :ios, "8.0"
-  s.source       = { :git => "https://github.com/zhaochao89/TestPodSpec.git", :tag => "#{0.0.1}" }
+  s.source       = { :git => "https://github.com/zhaochao89/TestPodSpec.git", :tag => "0.0.1" }
 end
