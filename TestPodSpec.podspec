@@ -27,4 +27,5 @@ Pod::Spec.new do |s|
   s.author             = { "zhaochao89" => "zhaochao0801@sina.com" }
   s.platform     = :ios, "8.0"
   s.source       = { :git => "https://github.com/zhaochao89/TestPodSpec.git", :tag => "0.0.1" }
+  s.source_files = "TestPodSpec/*.h","TestPodSpec/*.{h,m}"
 end
